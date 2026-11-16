@@ -1,0 +1,24 @@
+{
+    "copula_family": "student_t",
+    "degrees_of_freedom": 5,
+    "repetitions": 50,
+    "shots_per_setting": [
+        100,
+        300,
+        1000,
+        3000
+    ],
+    "grover_iterations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "seed": 2026,
+    "true_probability": 0.013364113532562897,
+    "favorable_state_count": 45,
+    "query_budget_definition": "shots_per_setting multiplied by sum of Grover iterations"
+}

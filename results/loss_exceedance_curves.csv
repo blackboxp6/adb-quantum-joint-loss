@@ -1,0 +1,49 @@
+threshold_millions,exceedance_probability,model,family,degrees_of_freedom
+20,0.12839519334248817,ADB benchmark,ADB,
+40,0.09525583268448673,ADB benchmark,ADB,
+60,0.0712953828701709,ADB benchmark,ADB,
+80,0.012046720907534033,ADB benchmark,ADB,
+100,0.005106919141595617,ADB benchmark,ADB,
+120,0.0032513312938518674,ADB benchmark,ADB,
+140,0.0002105131430980456,ADB benchmark,ADB,
+160,0.0,ADB benchmark,ADB,
+20,0.1272994685921493,Gaussian,gaussian,
+40,0.09425899230390802,Gaussian,gaussian,
+60,0.07052112095402398,Gaussian,gaussian,
+80,0.012832224576830717,Gaussian,gaussian,
+100,0.005930219186649389,Gaussian,gaussian,
+120,0.003984998542870811,Gaussian,gaussian,
+140,0.00027103194071828357,Gaussian,gaussian,
+160,0.0,Gaussian,gaussian,
+20,0.12567520320646217,Student-t (df=3),student_t,3.0
+40,0.09252806250888616,Student-t (df=3),student_t,3.0
+60,0.068928787324336,Student-t (df=3),student_t,3.0
+80,0.013491720130712995,Student-t (df=3),student_t,3.0
+100,0.007394726330523633,Student-t (df=3),student_t,3.0
+120,0.005501749939407063,Student-t (df=3),student_t,3.0
+140,0.0004149986958765131,Student-t (df=3),student_t,3.0
+160,0.0,Student-t (df=3),student_t,3.0
+20,0.12611730463232476,Student-t (df=5),student_t,5.0
+40,0.09300122762584008,Student-t (df=5),student_t,5.0
+60,0.06935604190190667,Student-t (df=5),student_t,5.0
+80,0.013364113532562897,Student-t (df=5),student_t,5.0
+100,0.006990505617084462,Student-t (df=5),student_t,5.0
+120,0.005071781681500258,Student-t (df=5),student_t,5.0
+140,0.00037349863919742757,Student-t (df=5),student_t,5.0
+160,0.0,Student-t (df=5),student_t,5.0
+20,0.12662832092213927,Student-t (df=10),student_t,10.0
+40,0.0935472599303643,Student-t (df=10),student_t,10.0
+60,0.0698614198241853,Student-t (df=10),student_t,10.0
+80,0.013155512817413357,Student-t (df=10),student_t,10.0
+100,0.006529964793388164,Student-t (df=10),student_t,10.0
+120,0.0045932071944308405,Student-t (df=10),student_t,10.0
+140,0.0003278501567137931,Student-t (df=10),student_t,10.0
+160,0.0,Student-t (df=10),student_t,10.0
+20,0.1270590486092903,Student-t (df=30),student_t,30.0
+40,0.09400501996761318,Student-t (df=30),student_t,30.0
+60,0.0702863777361891,Student-t (df=30),student_t,30.0
+80,0.012953381960456443,Student-t (df=30),student_t,30.0
+100,0.0061444878091881,Student-t (df=30),student_t,30.0
+120,0.0042001970423586,Student-t (df=30),student_t,30.0
+140,0.000290941945754182,Student-t (df=30),student_t,30.0
+160,0.0,Student-t (df=30),student_t,30.0

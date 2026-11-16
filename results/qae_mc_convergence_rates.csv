@@ -1,0 +1,3 @@
+method,empirical_slope,log_log_r_squared,theoretical_reference_slope
+Classical Monte Carlo,-0.6181858047049055,0.9992863040554003,-0.5
+Quantum MLAE,-0.6795511458602568,0.9779224341385246,-1.0
